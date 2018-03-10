@@ -1,0 +1,18 @@
+button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+#inputArtist {
+	/*background-image: url("https://www.grammy.com/sites/com/files/styles/news_detail_header/public/long_live_music_-_desktop_image.jpg?itok=MJy3IoM9");*/
+	height: 150px;
+  background-size: 250px;
+  color: black;
+
+}
+
+#addButton {
+	color:black;
+}
